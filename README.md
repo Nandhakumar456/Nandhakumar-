@@ -15,4 +15,4 @@ I am a Computer Science graduate passionate about **Data Engineering**, **Data A
 
 ### 🔗 Connect with Me
 * [My Portfolio Website](https://nandhakumar456.github.io/Portfolio/)
-* [LinkedIn](https://www.linkedin.com/) *(Add your actual link here)*
+* [LinkedIn](https://www.linkedin.com/in/nandha-kumar-644020265/)
