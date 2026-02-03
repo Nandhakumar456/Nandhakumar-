@@ -4,7 +4,7 @@ I am a Computer Science graduate passionate about **Data Engineering**, **Data A
 
 ### 👨‍💻 About Me
 * 🎓 **Class of 2025:** B.E. Computer Science, Kongu Engineering College.
-* 💼 **Experience:** Former Associate Support Engineer Intern at Infinite Computer Solutions.
+* 💼 **Experience:** Former Software Developer Intern at Infinite Computer Solutions.
 * ☁️ **Cloud Focus:** Currently exploring AWS and Google Cloud Platform.
 * 🌍 **Location:** Erode, Tamil Nadu.
 
